@@ -59,7 +59,7 @@ kramdown:
 # Disqus（https://disqus.com/）
 disqus_username: Yixuan
 
-Gitalk
+# Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: b39ad13e568b6aff0aa3                            #生成的clientID
